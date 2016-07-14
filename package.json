@@ -45,5 +45,8 @@
     "hapijs",
     "hapi"
   ],
-  "preferGlobal": true
+  "preferGlobal": true,
+  "devDependencies": {
+    "collaborator": "1.2.0"
+  }
 }
